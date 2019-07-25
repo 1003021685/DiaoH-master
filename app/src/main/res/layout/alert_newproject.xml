@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="46dp">
             <TextView
-                android:text="项目名："
+                android:text="项目名称："
                 android:layout_marginLeft="20dp"
                 android:gravity="center_vertical"
                 android:layout_weight="1"
@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="46dp">
             <TextView
-                android:text="测量人员："
+                android:text="勘察人员："
                 android:layout_marginLeft="20dp"
                 android:gravity="center_vertical"
                 android:layout_weight="1"
